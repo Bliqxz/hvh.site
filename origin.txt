@@ -1,0 +1,28 @@
+Uri: https://hvh.site/
+File Name: c:\Downloaded Web Sites\hvh.site\index.htm
+Content Type: text/html
+
+Uri: https://hvh.site/Other/img.ico
+File Name: c:\Downloaded Web Sites\hvh.site\Other\img.ico
+Content Type: image/x-icon
+
+Uri: https://hvh.site/css/Cstyle.css
+File Name: c:\Downloaded Web Sites\hvh.site\css\Cstyle.css
+Content Type: text/css
+
+Uri: https://hvh.site/css/bg-animation.css
+File Name: c:\Downloaded Web Sites\hvh.site\css\bg-animation.css
+Content Type: text/css
+
+Uri: https://hvh.site/js/AnimatedTitle.js
+File Name: c:\Downloaded Web Sites\hvh.site\js\AnimatedTitle.js
+Content Type: application/javascript
+
+Uri: https://hvh.site/js/BlockInspect.js
+File Name: c:\Downloaded Web Sites\hvh.site\js\BlockInspect.js
+Content Type: application/javascript
+
+Uri: https://hvh.site/Other/AnimeMain.mp4
+File Name: c:\Downloaded Web Sites\hvh.site\Other\AnimeMain.mp4
+Content Type: video/mp4
+
